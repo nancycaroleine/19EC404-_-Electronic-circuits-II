@@ -6,12 +6,15 @@
 
 # Circuit Diagram 
 
+![TUNED](https://github.com/user-attachments/assets/b38c9490-7f03-4606-bc87-7fa9d360be0c)
 
 
 # Output Graph
 
+![WhatsApp Image 2025-11-11 at 12 53 11_bbdf6a65](https://github.com/user-attachments/assets/9c06eb03-92ad-4829-bbfd-6ddd73da836a)
 
 
 # Result
+Thus the simulation of  Tuned Collector Oscillator using LTspice is  done and verified successfully.
 
 
