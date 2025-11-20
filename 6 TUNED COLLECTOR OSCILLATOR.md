@@ -15,6 +15,11 @@
 
 
 # Result
+![WhatsApp Image 2025-11-20 at 19 36 43_b2b90979](https://github.com/user-attachments/assets/41143731-5442-40b8-b696-791795987231)
+
+![WhatsApp Image 2025-11-20 at 19 36 43_c96601a2](https://github.com/user-attachments/assets/e19ad1f7-a38c-4ca4-ac9e-10e7bdfc0bde)
+
+
 Thus the simulation of  Tuned Collector Oscillator using LTspice is  done and verified successfully.
 
 
