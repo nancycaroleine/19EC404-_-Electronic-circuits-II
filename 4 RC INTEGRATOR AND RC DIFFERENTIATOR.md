@@ -1,5 +1,5 @@
 ## Exp. No. 4
-**Date:**  
+**Date:06/10/2025**  
 
 ## RC INTEGRATOR AND RC DIFFERENTIATOR
 <img width="486" height="664" alt="image" src="https://github.com/user-attachments/assets/9cd74d70-fbc8-41a1-9297-ac8f65775583" />
