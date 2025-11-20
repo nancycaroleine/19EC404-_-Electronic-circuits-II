@@ -13,5 +13,10 @@
 
 
 # Result
+
+![WhatsApp Image 2025-11-20 at 22 27 03_06ac2a58](https://github.com/user-attachments/assets/a9a238e8-0b80-4cce-97c4-f0240710a9ba)
+![WhatsApp Image 2025-11-20 at 22 27 58_1ea3bc9b](https://github.com/user-attachments/assets/ca95dde3-9f69-412d-83d2-33ef57d416c8)
+
+
 Thus the simulation of Twin T oscillator using LTspice is  done and verified successfully.
 
