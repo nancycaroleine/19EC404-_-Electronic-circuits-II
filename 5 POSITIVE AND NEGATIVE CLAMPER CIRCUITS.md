@@ -14,11 +14,23 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-21 at 09 12 47_7fcdb79e](https://github.com/user-attachments/assets/f809c35a-e9ec-4cb4-9804-ff91ef133d86)
 
 # Graph
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/06828b5d-7c49-4ee3-97af-42221388d92f" />
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c0d27ce0-7a68-465a-85a0-5164314cc48a" />
 
 # Sample images 
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/856ff1c9-cd7b-42d9-b141-61a25b87ceb2" />
+
+![WhatsApp Image 2025-11-21 at 09 12 48_debca5dd](https://github.com/user-attachments/assets/b9d222bd-b6d6-4386-b5fd-151fdfcfcc9c)
+
+
+<img width="1107" height="587" alt="image" src="https://github.com/user-attachments/assets/55352bca-c5de-459c-bd2b-52d3fd54b42b" />
 
 # Result
+
+Thus the operation of non-linear wave shaping clamper circuit is performed.
