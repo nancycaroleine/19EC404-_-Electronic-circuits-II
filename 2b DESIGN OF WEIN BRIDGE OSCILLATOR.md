@@ -8,8 +8,6 @@
 <img width="458" height="708" alt="image" src="https://github.com/user-attachments/assets/c2a67df9-a32b-40aa-8206-baa2208282c0" />
 <img width="415" height="78" alt="image" src="https://github.com/user-attachments/assets/4038a170-c8ee-47cb-9ead-3797252869fc" />
 
-
-
 # Circuit Diagram 
 <img width="514" height="273" alt="image" src="https://github.com/user-attachments/assets/626a6c59-d3af-497e-bd54-8c02c446e652" />
 
